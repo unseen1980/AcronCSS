@@ -18,6 +18,7 @@ Can be used like this:
 
 6. **.acron-hover-border-belize** for border color on hover
 
+---
 
 ###Container class
 **.acron-container** class can be used for all types of HTML container elements like: div, header, footer, article, section etc. It is important for providing equality:
@@ -34,6 +35,7 @@ Can be used like this:
 
 * Common colors
 
+---
 
 ###Card class
 
@@ -51,11 +53,13 @@ Can be used like this:
 
 * **.acron-card-24**	Container for any HTML content (24px bordered shadow)
 
+---
 
 ###Hover Effect
 
 The **.acron-hover-shadow** class adds a shadow effect on hover - this will make any element look like a card on mouse-over 
 
+---
 
 ###Border classes
 
@@ -64,6 +68,7 @@ Border classes can be used on any HTML element.
 * **.acron-border**
 * **.acron-round-** + any from small,medium,large,xlarge,xxlarge,jumbo. Eg. **.acron-round-medium**
 
+---
 
 ###Side Border Classes
 
@@ -76,6 +81,7 @@ Adds 1px border in element
 * **.acron-border-bottom**
 * **.acron-border-0** This one sets the border to 0
 
+---
 
 ###Panel class
 
@@ -83,6 +89,7 @@ Panels are like containers with an added top and bottom 16px margin.
 
 * **.acron-panel**
 
+---
 
 ###Typography
 
@@ -95,6 +102,7 @@ Panels are like containers with an added top and bottom 16px margin.
 <h6>Heading 6 (16px)</h6>
 ```
 
+---
 
 ###Font-Size Classes
 
@@ -107,5 +115,16 @@ Panels are like containers with an added top and bottom 16px margin.
 * **.acron-xxxlarge** 48px
 * **.acron-jumbo** 64px
 
+---
 
+###Font-family
+
+**Google Roboto** is the one that has been selected. It comes in 3 different font weights: 400, 500, 700. Regular and Italics
+
+Following reference needs to be included at the top of your html
+```html
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i" rel="stylesheet">
+```
+
+---
 

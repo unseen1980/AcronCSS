@@ -6,24 +6,13 @@
 
 html,
 body {
-  font-family: Verdana, sans-serif;
+  font-family: 'Roboto', Arial, sans-serif;
   font-size: 15px;
   line-height: 1.5
 }
 
 html {
   overflow-x: hidden
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-.acron-slim,
-.acron-wide {
-  font-family: "Segoe UI", Arial, sans-serif
 }
 
 h1 {
@@ -423,58 +412,7 @@ ul.acron-ul li:last-child {
 .acron-opennav,
 .acron-closenav,
 .acron-closebtn,
-.acron-hover-amber,
-.acron-hover-aqua,
-.acron-hover-blue,
-.acron-hover-light-blue,
-.acron-hover-brown,
-.acron-hover-cyan,
-.acron-hover-blue-grey,
-.acron-hover-green,
-.acron-hover-light-green,
-.acron-hover-indigo,
-.acron-hover-khaki,
-.acron-hover-lime,
-.acron-hover-orange,
-.acron-hover-deep-orange,
-.acron-hover-pink,
-.acron-hover-purple,
-.acron-hover-deep-purple,
-.acron-hover-red,
-.acron-hover-sand,
-.acron-hover-teal,
-.acron-hover-yellow,
-.acron-hover-white,
-.acron-hover-black,
-.acron-hover-grey,
-.acron-hover-light-grey,
-.acron-hover-dark-grey,
-.acron-hover-text-amber,
-.acron-hover-text-aqua,
-.acron-hover-text-blue,
-.acron-hover-text-light-blue,
-.acron-hover-text-brown,
-.acron-hover-text-cyan,
-.acron-hover-text-blue-grey,
-.acron-hover-text-green,
-.acron-hover-text-light-green,
-.acron-hover-text-indigo,
-.acron-hover-text-khaki,
-.acron-hover-text-lime,
-.acron-hover-text-orange,
-.acron-hover-text-deep-orange,
-.acron-hover-text-pink,
-.acron-hover-text-purple,
-.acron-hover-text-deep-purple,
-.acron-hover-text-red,
-.acron-hover-text-sand,
-.acron-hover-text-teal,
-.acron-hover-text-yellow,
-.acron-hover-text-white,
-.acron-hover-text-black,
-.acron-hover-text-grey,
-.acron-hover-text-light-grey,
-.acron-hover-text-dark-grey {
+{
   -webkit-transition: background-color .3s, color .15s, box-shadow .3s, opacity 0.3s;
   transition: background-color .3s, color .15s, box-shadow .3s, opacity 0.3s
 }
@@ -1657,7 +1595,6 @@ input[type=radio].acron-radio:disabled+.acron-validate {
   box-shadow: none!important;
   background-color: transparent!important
 }
-
 
 
 /* Acron color pallete */

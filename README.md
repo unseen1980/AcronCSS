@@ -128,3 +128,6 @@ Following reference needs to be included at the top of your html
 
 ---
 
+###Showcases
+
+* [Random quote machine](http://codepen.io/unseen/pen/bwZBPZ)
